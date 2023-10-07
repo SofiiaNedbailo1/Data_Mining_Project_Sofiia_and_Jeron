@@ -14,7 +14,7 @@ This project focuses on the analysis of the diabetes dataset, with a particular 
 - **Cleaned Dataset with BMI Ranges:** We further segmented the BMI variable into distinct ranges, creating `CleanNewDiabetes_with_BMI_range.xlsx`. This dataset allows us to explore the influence of BMI categories on model performance.
 
 ## Code
-All code implementations for data cleaning, analysis, and modeling are written in Python. You can find the code for this project in the main PDF report, titled "report.pdf."
+All code implementations for data cleaning, analysis, and modeling are written in Python. You can find the code for this project in the main PDF report, titled "Crisp MD diabetes .pdf".
 
 For more detailed insights and results, please refer to the report.
 
